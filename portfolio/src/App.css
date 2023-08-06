@@ -1,0 +1,244 @@
+
+.div-header{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  display: flex;
+}
+.div-name{
+  width: 45%;
+  margin-left: 200px;
+}
+.div-icons{
+  width: 45%;
+  justify-content: end;
+  display: flex;
+  margin-right: 200px;
+  padding-right: 10px;
+  margin: auto 0;
+}
+.div-inner-icon{
+  display: flex;
+  margin-right: 200px;
+}
+.img-github, .img-frontend, .img-linkedin, .img-twitter{
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+  filter: brightness(0) invert(1);
+}
+.pro-name{
+  color: white;
+}
+.div-main{
+  height: 500px;
+  margin:  0 100px;
+  margin-bottom: 50px;
+}
+#root{
+  background-color: rgb(20, 20, 20);
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.desc{
+  color: white;
+}
+.tab {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.inner-div{
+  display: flex;
+  width: 100%;
+}
+.div-desc{
+  width: 100%;
+  position: relative;
+}
+.desc{
+  color: white;
+  margin-left: 200px;
+  font-size: 70px;
+  line-height: 0;
+}
+u{
+  text-decoration-color: aquamarine;
+}
+.main-desc{
+  color: white;
+  max-width: 35%;
+  margin-left: 200px;
+}
+.contact-me{
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: aquamarine;
+  margin-left: 200px;
+}
+.div-a{
+  margin-top: 50px;
+}
+.div-part-1{
+  width: 65%;
+}
+.div-part-2{
+  width: 30%;
+  display: flex;
+  object-fit: contain;
+}
+.img-profile{
+  width: 300px;
+  height: 130%;
+  margin-top: -80px;
+  margin-left: -30px;
+}
+.main-div-parts{
+  width: 100%;
+  display: flex;
+}
+.bottom-line{
+  width: 70%;
+  background: grey;
+  height: 2px;
+  margin-top: 100px;
+  margin-left: 200px;
+}
+.div-part-sub-1{
+  width: 100%;
+  display: flex;
+}
+.div-sub{
+  width: 33.33%;
+}
+.div-sub-main{
+  margin: 0 300px;
+  justify-content: center;
+  padding-top: 30px;
+}
+.div-project{
+  width: 100%;
+  display: flex;
+  margin-top: 50px;
+}
+.txt-project{
+ display: flex;
+ margin: auto 0;
+ font-size: 65px;
+ color: white;
+ font-weight: bold;
+ margin-bottom: 30px;
+}
+.div-inner-project1 a{
+  display: flex;
+  color: white; 
+  text-decoration: underline;
+  text-decoration-color: aquamarine; 
+}
+.div-inner-project{
+  width: 50%;
+}
+.div-inner-project1{
+  width:50%;
+  display: flex;
+  margin: auto 0;
+  justify-content: end;
+}
+.div-img-desc p{
+  display: flex;
+}
+.div-main-img{
+  display: flex;
+  width: 100%;
+  margin-left: 15px;
+}
+.div-img-project{
+  width: 100%;
+  margin-bottom: 20px;
+}
+.div-img-project img{
+  width: 95%;
+  height: 300px;
+  margin-top: 10px;
+}
+.main-footer-div{
+  background-color: rgb(40, 39, 39);
+  width: 100%;
+  height: 50%;
+  margin-top: 100px;
+  padding-bottom: 40px;
+}
+
+.div-inner-p{
+  margin-left: 300px;
+  font-size: 40px;
+}
+.div-inner-cont{
+  width: 45%;
+  margin-left: 300px;
+}
+.div-footer-form{
+  padding-top: 30px;
+}
+.div-inner-footer{
+  width: 100%;
+  display: flex;
+}
+.div-footer-content{
+  width: 50%;
+}
+.div-footer-form{
+  width: 50%;
+  display: block;
+  margin-left: 15%;
+}
+.form-input{
+  margin-bottom: 30px;
+  width: 47%;
+  background: none;
+  background-color: transparent;
+  color: white;
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: white;
+  padding: 5px 10px;
+}
+.btn-message{
+  background: none;
+  background-color: transparent;
+  color: white;
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: aqua;
+  padding: 5px 10px;
+  margin-bottom: 30px;
+}
+.div-btn{
+  display: flex;
+  width: 50%;
+  justify-content: end;
+}
+.div-name1{
+  width: 45%;
+  margin-left: 300px;
+}
+.div-icons1{
+  width: 45%;
+  justify-content: end;
+  display: flex;
+  margin: auto 0;
+  margin-right: 100px;
+}
+.bottom-line1{
+  width: 60%;
+  background: grey;
+  height: 2px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
